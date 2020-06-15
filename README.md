@@ -1,5 +1,6 @@
 # Estadistica_correlacion
-Procedimiento robotizado para obtener correlación en Caseware IDEA y su equivalente en lenguaje Python
+Procedimiento robotizado para obtener correlación en Caseware IDEA y su equivalente en lenguaje Python.
+Cabe señalar que IDEA obtiene como resultado la correlación pearson.
 
 Se presenta:
 1 IDEAScript para obtener correlación.
