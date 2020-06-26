@@ -8,3 +8,5 @@ Se presenta:
 
 2 Scripts equivalentes en python, uno para generar una tabla IDEA y el otro para obtener el resultado en modo vista.
 
+Además se incluye un script en python que muestra las correlaciones comparadas en métodos pearson, spearman y kendall.
+
